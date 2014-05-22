@@ -14,4 +14,11 @@
 	$('#B_Rex').tap(function (e) {
  	 $.mobile.navigate( "#Rex" );
 	});
+
+
+$('#Ve-di').tap(function (e) {
+ 	 $.mobile.navigate( "#V" );
+	});
 });//ready
+
+
