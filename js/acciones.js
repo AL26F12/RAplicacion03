@@ -19,6 +19,18 @@
 $('#Ve-di').tap(function (e) {
  	 $.mobile.navigate( "#V" );
 	});
+
+
+
+
+$('#A').tap(function (e) {
+ 	 $.mobile.navigate( "#acerca" );
+	
+	});
+	
+	
+$('#d3').tap(function (e) {
+ 	 $.mobile.navigate( "#dino3" );
+	
+	});
 });//ready
-
-
